@@ -1,6 +1,5 @@
-@CHARSET "UTF-8";
 body {
-	background-colour: #cccccc;
+	colour: #cccccc;
 }
 * {
    	margin: 0;
